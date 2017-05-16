@@ -1,2 +1,3 @@
-# KeyBinder
-Efficient Key binding library for java
+# ActionBinders
+Efficient action binding library for java
+Supports binding to keys, mouse, and buttons
